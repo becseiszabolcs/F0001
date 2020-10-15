@@ -1,0 +1,7 @@
+print('Rásír a sok kis malac is!')
+print('"Én is, én is, én is, én is!"')
+'''
+kifogja írni ezeket a szövegeket:
+Rásír a sok kis malac is!
+"Én is, én is, én is, én is!"
+'''
