@@ -1,0 +1,8 @@
+#print('...Hogyha én ezt tudtam volna)
+#print('Köpönyeget hoztam vóna'!)
+'''
+1.sor nem fog működni, mert a szöveg nincs lezárva 
+2.sor nem fog működni, mert a szöveg után van a felkíáltójel
+'''
+print('...Hogyha én ezt tudtam volna')
+#print('Köpönyeget hoztam vóna!')
